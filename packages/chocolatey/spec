@@ -1,0 +1,7 @@
+---
+name: chocolatey
+
+dependencies: []
+
+files:
+- chocolatey/chocolatey*.zip
