@@ -2,7 +2,7 @@
 name: openjdk
 
 templates:
-  pre-start.ps1: bin/pre-start.ps1
+  post-start.ps1: bin/post-start.ps1
 
 packages: []
 
