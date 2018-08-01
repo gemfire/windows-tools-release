@@ -2,4 +2,5 @@ name: windows-tools
 blobstore:
   provider: s3
   options:
-    bucket_name: windows-tools-release
+    region: us-west-2
+    bucket_name: geode-windows-tools-release

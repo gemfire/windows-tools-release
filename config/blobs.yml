@@ -6,6 +6,10 @@ bosh-cli/bosh-cli-2.0.40-windows-amd64.exe:
   size: 27397632
   object_id: 80961a4c-7921-4c24-77e1-71ae9ee5ccc5
   sha: fffd495e33258dd68bd8b7f92f3d09f25e68f4a4
+chocolatey/chocolatey.0.10.11.zip:
+  size: 5754091
+  object_id: 6b0a315c-b7e7-48ca-5e0e-1e8593a430c1
+  sha: ff318ff2400f897d3f70dcebaef5d061e76b3fd2
 cmake/cmake-3.8.0-rc2-win64-x64.zip:
   size: 25615806
   object_id: 723cc335-e647-46bf-631a-d81135fdcb3d
